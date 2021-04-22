@@ -3,6 +3,11 @@
         "py",
         "pytube",
         "roboto",
-        "yout"
+        "yout",
+        "youtpy",
+        "youtubevid"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./youtpy"
     ]
 }
